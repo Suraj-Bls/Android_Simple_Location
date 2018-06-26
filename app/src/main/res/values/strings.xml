@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Location</string>
+    <string name="start_updates">START LOCATION UPDATE</string>
+    <string name="stop_updates">STOP LOCATION UPDATE</string>
+    <string name="get_last_location">GET SEEN LAST LOCATION</string>
+</resources>
